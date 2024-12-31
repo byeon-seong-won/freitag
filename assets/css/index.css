@@ -676,6 +676,9 @@ input[id=tab_4]:checked ~.about_slide .about_slideInner {
   color: #555;
   font-size: 18px;
 }
+.fab_img {
+  width: 40%;
+}
 .btn2 {
   display: inline-block;
   height: 50px;

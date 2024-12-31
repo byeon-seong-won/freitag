@@ -627,12 +627,7 @@ input[id=tab_4]:checked ~.about_slide .about_slideInner {
   line-height: 60px;
 }
 
-.fab_inner iframe {
-  width:560px;
-  height:315px;
-  border: none;
-  flex: 2;
-}
+
 .serviceImg ul li img {
   width: 410px;
   height: 300px;

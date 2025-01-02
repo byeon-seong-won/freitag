@@ -502,6 +502,7 @@ input[id=tab_4]:checked ~.about_slide .about_slideInner {
   width: 100px;
   transform: translateY(-3px);
   margin-left: 100px;
+  font-style: italic;
 }
 .clickFa {
   display: inline-block;
@@ -1009,14 +1010,6 @@ input[id=tab_4]:checked ~.about_slide .about_slideInner {
   font-size: 35px;
   transform: translateY(10px);
 }
-.material-symbols-outlined {
-  font-variation-settings:
-  'FILL' 0,
-  'wght' 200,
-  'GRAD' 0,
-  'opsz' 48
-}
-
 
 
 /* ______________FOOTER______________ */
